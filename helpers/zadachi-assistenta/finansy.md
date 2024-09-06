@@ -4,7 +4,7 @@ icon: circle-dollar
 
 # Финансы
 
+**Вводная лекция: **<mark style="color:red;">**Ассистент**</mark>** и что он делает**
 
 
-{% @guideflow/guideflow-embed requestedUrl="https://app.guideflow.com/player/lpx9l1zh4p" %}
 
