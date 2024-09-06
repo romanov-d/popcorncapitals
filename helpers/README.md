@@ -1,10 +1,11 @@
 ---
 icon: circle-info
+description: From assistants for assistants
 layout:
   title:
     visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: true
   outline:
