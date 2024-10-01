@@ -1,6 +1,0 @@
----
-icon: telegram
----
-
-# Telegram боты
-
