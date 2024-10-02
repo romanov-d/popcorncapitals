@@ -87,13 +87,8 @@
   * [Инструменты на основе нейросетей для ассистентов](zadachi-assistenta/neiroseti-ai/instrumenty-na-osnove-neirosetei-dlya-assistentov.md)
   * [Прогнозирование и принятие решений с помощью ИИ](zadachi-assistenta/neiroseti-ai/prognozirovanie-i-prinyatie-reshenii-s-pomoshyu-ii.md)
 
-## Наши услуги
+***
 
-* [Подбор ассистента](nashi-uslugi/podbor-assistenta.md)
-* [Адаптация](nashi-uslugi/adaptaciya.md)
-* [Мотивация](nashi-uslugi/motivaciya.md)
-* [Обучение](nashi-uslugi/obuchenie.md)
-
-## Group 1
-
-* [Обратная связь](group-1/obratnaya-svyaz.md)
+* [Ваши пожелания](https://docs.google.com/forms/d/e/1FAIpQLSei1JAjDrEHHsPIf3bZq\_KpnNyMrVA-rGXIRlcHBsUdcu8fjw/viewform?usp=sf\_link)
+* [Обновления](obnovleniya.md)
+* [Новости](novosti.md)
