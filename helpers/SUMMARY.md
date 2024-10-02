@@ -36,7 +36,6 @@
   * [Составление регламентов и инструкций](zadachi-assistenta/operacionnye-zadachi/sostavlenie-reglamentov-i-instrukcii.md)
   * [Контроль и отчетность по выполнению задач](zadachi-assistenta/operacionnye-zadachi/kontrol-i-otchetnost-po-vypolneniyu-zadach.md)
   * [Работа с внутренними документами](zadachi-assistenta/operacionnye-zadachi/rabota-s-vnutrennimi-dokumentami.md)
-  * [Управление ресурсами и запасами](zadachi-assistenta/operacionnye-zadachi/upravlenie-resursami-i-zapasami.md)
   * [Оптимизация операционных процессов](zadachi-assistenta/operacionnye-zadachi/optimizaciya-operacionnykh-processov.md)
   * [Операционная поддержка руководителей](zadachi-assistenta/operacionnye-zadachi/operacionnaya-podderzhka-rukovoditelei.md)
   * [Инструменты и технологии для операционной деятельности](zadachi-assistenta/operacionnye-zadachi/instrumenty-i-tekhnologii-dlya-operacionnoi-deyatelnosti.md)
