@@ -18,7 +18,6 @@
   * [Финансовая отчетность и аналитика](zadachi-assistenta/finansy/finansovaya-otchetnost-i-analitika.md)
   * [Контроль и управление расходами](zadachi-assistenta/finansy/kontrol-i-upravlenie-raskhodami.md)
   * [Налогообложение и юридические аспекты в финансах](zadachi-assistenta/finansy/nalogooblozhenie-i-yuridicheskie-aspekty-v-finansakh.md)
-  * [Управление казначейскими операциями](zadachi-assistenta/finansy/upravlenie-kaznacheiskimi-operaciyami.md)
   * [Инструменты для управления финансами](zadachi-assistenta/finansy/instrumenty-dlya-upravleniya-finansami.md)
 * [HR и управление персоналом](zadachi-assistenta/hr-i-upravlenie-personalom/README.md)
   * [Подбор и адаптация персонала](zadachi-assistenta/hr-i-upravlenie-personalom/podbor-i-adaptaciya-personala.md)
