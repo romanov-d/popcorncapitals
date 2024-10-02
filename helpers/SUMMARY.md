@@ -91,3 +91,7 @@
 * [Адаптация](nashi-uslugi/adaptaciya.md)
 * [Мотивация](nashi-uslugi/motivaciya.md)
 * [Обучение](nashi-uslugi/obuchenie.md)
+
+## Group 1
+
+* [Обратная связь](group-1/obratnaya-svyaz.md)
