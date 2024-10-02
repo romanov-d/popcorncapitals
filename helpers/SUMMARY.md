@@ -12,6 +12,7 @@
 
 ## Задачи ассистента
 
+* [Идеи и чего не хватает](zadachi-assistenta/idei-i-chego-ne-khvataet.md)
 * [Финансы](zadachi-assistenta/finansy/README.md)
   * [Бюджетирование и планирование](zadachi-assistenta/finansy/byudzhetirovanie-i-planirovanie.md)
   * [Управление платежами и счетами](zadachi-assistenta/finansy/upravlenie-platezhami-i-schetami.md)
@@ -31,7 +32,9 @@
   * [Юридическая поддержка в HR](zadachi-assistenta/hr-i-upravlenie-personalom/yuridicheskaya-podderzhka-v-hr.md)
 * [Операционные задачи](zadachi-assistenta/operacionnye-zadachi/README.md)
   * [Управление бизнес-процессами](zadachi-assistenta/operacionnye-zadachi/upravlenie-biznes-processami.md)
-  * [Координация работы команды](zadachi-assistenta/operacionnye-zadachi/koordinaciya-raboty-komandy.md)
+  * [Выбор и настройка задачника](zadachi-assistenta/operacionnye-zadachi/vybor-i-nastroika-zadachnika.md)
+  * [Составление регламентов и инструкций](zadachi-assistenta/operacionnye-zadachi/sostavlenie-reglamentov-i-instrukcii.md)
+  * [Контроль и отчетность по выполнению задач](zadachi-assistenta/operacionnye-zadachi/kontrol-i-otchetnost-po-vypolneniyu-zadach.md)
   * [Работа с внутренними документами](zadachi-assistenta/operacionnye-zadachi/rabota-s-vnutrennimi-dokumentami.md)
   * [Управление ресурсами и запасами](zadachi-assistenta/operacionnye-zadachi/upravlenie-resursami-i-zapasami.md)
   * [Оптимизация операционных процессов](zadachi-assistenta/operacionnye-zadachi/optimizaciya-operacionnykh-processov.md)
