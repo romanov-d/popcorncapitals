@@ -91,6 +91,7 @@
 
 ## Другое
 
+* [Словарик](drugoe/slovarik.md)
 * [Обновления](drugoe/obnovleniya.md)
 * [Новости](drugoe/novosti.md)
 * [Ваши пожелания](https://docs.google.com/forms/d/e/1FAIpQLSei1JAjDrEHHsPIf3bZq\_KpnNyMrVA-rGXIRlcHBsUdcu8fjw/viewform?usp=sf\_link)
