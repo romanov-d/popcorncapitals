@@ -1,7 +1,7 @@
 ---
 icon: circle-check
 cover: ../.gitbook/assets/6.png
-coverY: -121.77591973244147
+coverY: -173.1096989966555
 layout:
   cover:
     visible: true
