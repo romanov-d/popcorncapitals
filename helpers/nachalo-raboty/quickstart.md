@@ -1,5 +1,21 @@
 ---
 icon: circle-check
+cover: ../.gitbook/assets/6.png
+coverY: -121.77591973244147
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Основы ассистирования
