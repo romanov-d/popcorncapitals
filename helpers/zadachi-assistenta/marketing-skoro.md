@@ -1,18 +1,20 @@
 ---
-noIndex: true
 icon: money-bill-trend-up
+noIndex: true
 layout:
   title:
     visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
-    visible: false
+    visible: true
   outline:
-    visible: false
+    visible: true
   pagination:
-    visible: false
+    visible: true
 ---
 
 # Маркетинг (скоро)
+
+<img src="../.gitbook/assets/file.excalidraw (1).svg" alt="" class="gitbook-drawing">
 
