@@ -2,8 +2,7 @@
 
 ## Вступление
 
-* [О нас](README.md)
-* [Инструкция по базе знаний](vstuplenie/instrukciya-po-baze-znanii.md)
+* [Инструкция по базе знаний](README.md)
 
 ## Начало работы
 
@@ -90,3 +89,4 @@
 * [Обновления](drugoe/obnovleniya.md)
 * [Новости](drugoe/novosti.md)
 * [Ваши пожелания](https://docs.google.com/forms/d/e/1FAIpQLSei1JAjDrEHHsPIf3bZq\_KpnNyMrVA-rGXIRlcHBsUdcu8fjw/viewform?usp=sf\_link)
+* [О нас](drugoe/readme.md)
