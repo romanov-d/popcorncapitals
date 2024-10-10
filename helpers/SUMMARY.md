@@ -12,6 +12,13 @@
   * [Бизнес и личный ассистент](nachalo-raboty/quickstart/biznes-i-lichnyi-assistent.md)
   * [Необходимые качества](nachalo-raboty/quickstart/neobkhodimye-kachestva.md)
 
+## Папка ассистента
+
+* [Топ приложений для работы](papka-assistenta/top-prilozhenii-dlya-raboty.md)
+* [Как формировать личный график?](papka-assistenta/kak-formirovat-lichnyi-grafik.md)
+* [Книжная полка](papka-assistenta/knizhnaya-polka.md)
+* [Нетворкинг](papka-assistenta/netvorking.md)
+
 ## Задачи ассистента
 
 * [Идеи и чего не хватает](zadachi-assistenta/idei-i-chego-ne-khvataet.md)
