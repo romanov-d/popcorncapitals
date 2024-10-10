@@ -6,7 +6,7 @@
 
 ## Начало работы
 
-* [Основы ассистирования](nachalo-raboty/quickstart/README.md)
+* [Основы ассистирования](nachalo-raboty/quickstart.md)
   * [Описание должности](nachalo-raboty/quickstart/opisanie-dolzhnosti.md)
   * [Бизнес и личный ассистент](nachalo-raboty/quickstart/biznes-i-lichnyi-assistent.md)
   * [Необходимые качества](nachalo-raboty/quickstart/neobkhodimye-kachestva.md)
