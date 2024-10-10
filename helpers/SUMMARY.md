@@ -49,7 +49,6 @@
     * [Adobe illustrator](papka-assistenta/prilozheniya-dlya-raboty/dizain/adobe-illustrator.md)
     * [Где искать примеры](papka-assistenta/prilozheniya-dlya-raboty/dizain/gde-iskat-primery.md)
     * [Список сервисов](papka-assistenta/prilozheniya-dlya-raboty/dizain/spisok-servisov.md)
-* [Личный график](papka-assistenta/lichnyi-grafik.md)
 * [Книжная полка](papka-assistenta/knizhnaya-polka.md)
 * [Нетворкинг](papka-assistenta/netvorking.md)
 
