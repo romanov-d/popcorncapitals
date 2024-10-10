@@ -14,8 +14,8 @@
 
 ## Папка ассистента
 
-* [Топ приложений для работы](papka-assistenta/top-prilozhenii-dlya-raboty.md)
-* [Как формировать личный график?](papka-assistenta/kak-formirovat-lichnyi-grafik.md)
+* [Приложения для работы](papka-assistenta/prilozheniya-dlya-raboty.md)
+* [Личный график](papka-assistenta/lichnyi-grafik.md)
 * [Книжная полка](papka-assistenta/knizhnaya-polka.md)
 * [Нетворкинг](papka-assistenta/netvorking.md)
 
