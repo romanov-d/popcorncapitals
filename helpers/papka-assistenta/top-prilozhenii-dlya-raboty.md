@@ -1,5 +1,5 @@
 ---
-icon: laptop-arrow-down
+icon: folder-open
 ---
 
 # Топ приложений для работы
