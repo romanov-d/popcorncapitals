@@ -1,3 +1,7 @@
+---
+icon: circle-info
+---
+
 # Описание должности
 
 ## <mark style="color:blue;">Подробнее про ассистирование</mark>
