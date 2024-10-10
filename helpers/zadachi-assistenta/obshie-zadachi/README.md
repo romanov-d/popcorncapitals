@@ -1,5 +1,5 @@
 ---
-icon: money-bill-trend-up
+icon: diagram-subtask
 noIndex: true
 layout:
   title:
@@ -14,7 +14,5 @@ layout:
     visible: true
 ---
 
-# Маркетинг (скоро)
-
-<img src="../.gitbook/assets/file.excalidraw (1).svg" alt="" class="gitbook-drawing">
+# Общие задачи
 
