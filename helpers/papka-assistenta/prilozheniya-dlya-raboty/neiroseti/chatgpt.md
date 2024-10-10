@@ -1,4 +1,4 @@
-# ChatGPT
+# 🔥 ChatGPT
 
 ## <mark style="color:blue;">Описание</mark>
 
