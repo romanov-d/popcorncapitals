@@ -16,7 +16,7 @@ layout:
 
 # Чат ассистентов
 
-<figure><img src="../.gitbook/assets/Frame1313 29.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/chat.png" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:blue;">Бесплатное закрытое сообщество для ассистентов</mark>
 
