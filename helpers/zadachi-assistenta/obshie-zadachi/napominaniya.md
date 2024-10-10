@@ -16,8 +16,8 @@ icon: bells
 <mark style="color:green;">**Как работать в данных сервисах подробно описали здесь:**</mark>
 {% endhint %}
 
-{% content-ref url="../../papka-assistenta/prilozheniya-dlya-raboty.md" %}
-[prilozheniya-dlya-raboty.md](../../papka-assistenta/prilozheniya-dlya-raboty.md)
+{% content-ref url="../../papka-assistenta/prilozheniya-dlya-raboty/" %}
+[prilozheniya-dlya-raboty](../../papka-assistenta/prilozheniya-dlya-raboty/)
 {% endcontent-ref %}
 
 ***
