@@ -47,7 +47,7 @@
     * [Где искать примеры](papka-assistenta/prilozheniya-dlya-raboty/dizain/gde-iskat-primery.md)
     * [Список сервисов](papka-assistenta/prilozheniya-dlya-raboty/dizain/spisok-servisov.md)
 * [Книжная полка](papka-assistenta/knizhnaya-polka.md)
-* [Нетворкинг](papka-assistenta/netvorking.md)
+* [Чат ассистентов](papka-assistenta/chat-assistentov.md)
 
 ## Задачи ассистента
 
