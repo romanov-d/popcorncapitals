@@ -6,7 +6,7 @@ icon: comment-lines
 
 <figure><img src="../.gitbook/assets/Frame1313 29.png" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:blue;">Бесплатное и закрытое сообщество для ассистентов</mark>
+## <mark style="color:blue;">Бесплатное закрытое сообщество для ассистентов</mark>
 
 Это уникальная возможность для тех, кто хочет расти и развиваться в своей профессии, получать полезные знания и обмениваться опытом с коллегами.
 
