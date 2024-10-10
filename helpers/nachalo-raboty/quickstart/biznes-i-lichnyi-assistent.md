@@ -1,5 +1,6 @@
 ---
 icon: briefcase
+description: Я - могу все
 ---
 
 # Бизнес и личный ассистент

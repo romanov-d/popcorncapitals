@@ -8,6 +8,7 @@
 
 * [Основы ассистирования](nachalo-raboty/quickstart.md)
   * [Описание должности](nachalo-raboty/quickstart/opisanie-dolzhnosti.md)
+  * [Перспективы роста](nachalo-raboty/quickstart/perspektivy-rosta.md)
   * [Бизнес и личный ассистент](nachalo-raboty/quickstart/biznes-i-lichnyi-assistent.md)
   * [Необходимые качества](nachalo-raboty/quickstart/neobkhodimye-kachestva.md)
 
