@@ -1,9 +1,3 @@
----
-cover: >-
-  https://s.yimg.com/ny/api/res/1.2/m7MX4rtfkqAJHZr9bC23NQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-05/8bf9bb90-0cb8-11ef-bfff-44875ea1c6b8
-coverY: 0
----
-
 # ChatGPT
 
 ## <mark style="color:blue;">Описание</mark>
