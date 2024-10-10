@@ -21,7 +21,7 @@
 
 ## Задачи ассистента
 
-* [Общие задачи](zadachi-assistenta/obshie-zadachi/README.md)
+* [Общие задачи](zadachi-assistenta/marketing-skoro.md)
   * [Напоминания](zadachi-assistenta/obshie-zadachi/napominaniya.md)
 
 ## Другое

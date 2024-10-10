@@ -13,7 +13,7 @@ icon: bells
 ***
 
 {% hint style="success" %}
-**Как работать в данных сервисах подробно описали здесь:**
+<mark style="color:green;">**Как работать в данных сервисах подробно описали здесь:**</mark>
 {% endhint %}
 
 {% content-ref url="../../papka-assistenta/prilozheniya-dlya-raboty.md" %}

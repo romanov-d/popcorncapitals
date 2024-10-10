@@ -1,6 +1,6 @@
 ---
-icon: diagram-subtask
 noIndex: true
+icon: diagram-subtask
 layout:
   title:
     visible: true
