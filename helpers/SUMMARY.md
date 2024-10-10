@@ -1,11 +1,8 @@
 # Table of contents
 
-## Вступление
-
-* [Инструкция по базе знаний](README.md)
-
 ## Начало работы
 
+* [Инструкция по базе знаний](README.md)
 * [Основы ассистирования](nachalo-raboty/quickstart.md)
   * [Описание должности](nachalo-raboty/quickstart/opisanie-dolzhnosti.md)
   * [Перспективы роста](nachalo-raboty/quickstart/perspektivy-rosta.md)
