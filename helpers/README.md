@@ -1,9 +1,23 @@
 ---
 icon: book
 description: From assistants for assistants
+noIndex: true
+layout:
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Инструкция по базе знаний
+
+<figure><img src=".gitbook/assets/instructuin.png" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:blue;">Описание</mark>
 

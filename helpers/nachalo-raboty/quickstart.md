@@ -1,10 +1,11 @@
 ---
 icon: circle-check
+noIndex: true
 layout:
   title:
-    visible: true
+    visible: false
   description:
-    visible: true
+    visible: false
   tableOfContents:
     visible: true
   outline:
@@ -15,3 +16,4 @@ layout:
 
 # Основы ассистирования
 
+<figure><img src="../.gitbook/assets/base.png" alt=""><figcaption></figcaption></figure>
