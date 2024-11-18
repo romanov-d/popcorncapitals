@@ -20,9 +20,7 @@
     * [🔥 WEEEK](papka-assistenta/prilozheniya-dlya-raboty/zadachniki/weeek.md)
     * [Notion](papka-assistenta/prilozheniya-dlya-raboty/zadachniki/notion.md)
   * [Коммуникация](papka-assistenta/prilozheniya-dlya-raboty/kommunikaciya/README.md)
-    * [Telegram](papka-assistenta/prilozheniya-dlya-raboty/kommunikaciya/telegram.md)
     * [Google Meet](papka-assistenta/prilozheniya-dlya-raboty/kommunikaciya/google-meet.md)
-    * [Zoom](papka-assistenta/prilozheniya-dlya-raboty/kommunikaciya/zoom.md)
   * [Нейросети](papka-assistenta/prilozheniya-dlya-raboty/neiroseti/README.md)
     * [🔥 ChatGPT](papka-assistenta/prilozheniya-dlya-raboty/neiroseti/chatgpt.md)
     * [Claude](papka-assistenta/prilozheniya-dlya-raboty/neiroseti/claude.md)
@@ -36,7 +34,11 @@
     * [Adobe illustrator](papka-assistenta/prilozheniya-dlya-raboty/dizain/adobe-illustrator.md)
     * [Где искать примеры](papka-assistenta/prilozheniya-dlya-raboty/dizain/gde-iskat-primery.md)
     * [Список сервисов](papka-assistenta/prilozheniya-dlya-raboty/dizain/spisok-servisov.md)
-* [Книжная полка](papka-assistenta/knizhnaya-polka.md)
+* [Книжная полка](papka-assistenta/knizhnaya-polka/README.md)
+  * [Книги](papka-assistenta/knizhnaya-polka/knigi/README.md)
+    * [Тайм-менеджмент](papka-assistenta/knizhnaya-polka/knigi/taim-menedzhment.md)
+  * [Статьи](papka-assistenta/knizhnaya-polka/stati.md)
+  * [Видео](papka-assistenta/knizhnaya-polka/video.md)
 * [Чат ассистентов](papka-assistenta/netvorking.md)
 
 ## Задачи ассистента
@@ -85,13 +87,11 @@
   * [Составление регламентов и инструкций](zadachi-assistenta/operacionka/sostavlenie-reglamentov-i-instrukcii.md)
   * [Отчетность руководителю](zadachi-assistenta/operacionka/otchetnost-rukovoditelyu.md)
   * [Бизнес-процессы](zadachi-assistenta/operacionka/biznes-processy.md)
-* [Дизайн](zadachi-assistenta/dizain.md)
-* [IT и технологии](zadachi-assistenta/it-i-tekhnologii.md)
-* [Маркетинг](zadachi-assistenta/marketing.md)
+* [Дизайн (скоро)](zadachi-assistenta/dizain-skoro.md)
+* [IT и технологии (скоро)](zadachi-assistenta/it-i-tekhnologii-skoro.md)
+* [Маркетинг (скоро)](<zadachi-assistenta/marketing-skoro (1).md>)
 
 ## Другое
 
 * [Обновления](drugoe/obnovleniya.md)
-* [Новости](drugoe/novosti.md)
-* [Ваши пожелания](https://docs.google.com/forms/d/e/1FAIpQLSei1JAjDrEHHsPIf3bZq\_KpnNyMrVA-rGXIRlcHBsUdcu8fjw/viewform?usp=sf\_link)
 * [О нас](drugoe/readme.md)
