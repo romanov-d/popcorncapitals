@@ -37,8 +37,8 @@
 * [Книжная полка](papka-assistenta/knizhnaya-polka/README.md)
   * [Книги](papka-assistenta/knizhnaya-polka/knigi/README.md)
     * [Тайм-менеджмент](papka-assistenta/knizhnaya-polka/knigi/taim-menedzhment.md)
+    * [Дисциплина](papka-assistenta/knizhnaya-polka/knigi/disciplina.md)
   * [Статьи](papka-assistenta/knizhnaya-polka/stati.md)
-  * [Видео](papka-assistenta/knizhnaya-polka/video.md)
 * [Чат ассистентов](papka-assistenta/netvorking.md)
 
 ## Задачи ассистента
