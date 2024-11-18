@@ -26,3 +26,6 @@ layout:
 _Напоминание от Helpers💙_
 {% endhint %}
 
+
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><mark style="color:blue;"><strong>Книги</strong></mark></td><td>6 книг</td><td></td><td><a href="../../.gitbook/assets/Frame 94 (1).png">Frame 94 (1).png</a></td><td><a href="knigi/">knigi</a></td></tr><tr><td><mark style="color:blue;"><strong>Статьи</strong></mark></td><td>Скоро</td><td></td><td><a href="../../.gitbook/assets/Frame 95 (1).png">Frame 95 (1).png</a></td><td></td></tr></tbody></table>
